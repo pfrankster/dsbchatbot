@@ -1,0 +1,13 @@
+Drone Soccer é um esporte tecnológico e competitivo que combina a dinâmica do futebol com a inovação dos drones, criando uma experiência única de jogo em três dimensões. Esse esporte emergente está crescendo em popularidade mundialmente, especialmente entre jovens e entusiastas da robótica, por integrar habilidades de pilotagem, estratégia em equipe e engenharia.
+
+Drone Soccer é um esporte aéreo de equipe onde drones (veículos aéreos não tripulados) são utilizados para marcar pontos ao atravessar um anel ou gol no espaço aéreo delimitado, dentro de uma arena protegida por redes. O jogo é uma versão futurística do futebol, com drones em vez de jogadores, e com movimentos tridimensionais. Foi originalmente popularizado na Coreia do Sul por volta de 2016 e tem ganhado versões competitivas oficiais nos EUA, Europa e América Latina.
+
+Os drones utilizados no Drone Soccer são especialmente projetados para o esporte. Possuem formato esférico, com uma estrutura protetora em fibra de carbono ou plástico resistente, evitando danos e colisões perigosas. Têm cerca de 20 cm de diâmetro, luzes LED coloridas para identificação das equipes, são programáveis e controlados remotamente.
+
+As regras do esporte seguem uma estrutura comum. Cada equipe tem até cinco drones: um drone atacante (chamado "Striker") e quatro drones defensores ou auxiliares. Cada piloto controla um único drone. O objetivo é marcar pontos passando o Striker através de um gol aéreo — um aro suspenso. Os jogos são divididos em três rodadas de três minutos. A arena é protegida por redes e possui cerca de 3 metros de altura por 6 metros de largura e profundidade. Colisões entre drones são permitidas dentro de certos limites, e há punições para jogadas antidesportivas.
+
+Drone Soccer é altamente educacional. Desenvolve habilidades STEAM (Ciência, Tecnologia, Engenharia, Artes e Matemática), como montagem de drones, programação básica, trabalho em equipe, estratégia e comunicação. Também melhora a coordenação motora, percepção espacial e reflexos dos participantes.
+
+O esporte está presente na Coreia do Sul, Estados Unidos, Europa e começa a ganhar espaço no Brasil em escolas técnicas e feiras de tecnologia. Existem ligas nacionais e internacionais, com eventos que incluem competições de habilidades individuais, partidas em equipe e desafios de customização.
+
+Os equipamentos necessários incluem: drone oficial com proteção, controle remoto, arena com rede, aro suspenso, óculos FPV (opcional) e kits de manutenção.
