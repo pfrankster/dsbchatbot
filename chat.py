@@ -3,14 +3,14 @@ import requests
 import uuid
 
 #st.title("Abyss Precision")
-#st.subheader("Atendimento Exclusivo para DeepDive 1000M")
+#st.subheader("Atendime Exclusivo para Drone Soccer")
 
-st.markdown("<h1 style='text-align: center;'>Abyss Precision</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center;'>Atendimento Exclusivo para DeepDive 1000M</h3>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Drone Soccer Brasil</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Atendimento</h3>", unsafe_allow_html=True)
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
-    st.image("relogio.jpg", caption="DeepDive 1000M")
+    st.image("post1.png", caption="Drone Soccer")
 
 
 # Gera um client_id único para a sessão
